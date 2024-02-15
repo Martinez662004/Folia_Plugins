@@ -1,0 +1,5 @@
+name: Folia_Plugins
+version: '${version}'
+main: org.minecrafttest.folia_plugins.Folia_Plugins
+api-version: '1.20'
+folia-supported: true
